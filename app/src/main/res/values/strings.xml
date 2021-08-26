@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonsTextViewsApp</string>
+    <string name="increase_power">INCREASE POWER</string>
+    <string name="power">POWER!</string>
+    <string name="decrease_power">decrease_power</string>
+    <string name="decrease_power2">DECREASE POWER</string>
+</resources>
