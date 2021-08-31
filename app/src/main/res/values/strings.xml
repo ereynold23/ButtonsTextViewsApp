@@ -1,7 +1,14 @@
 <resources>
-    <string name="app_name">ButtonsTextViewsApp</string>
+    <string name="app_name">First Edit Text App</string>
     <string name="increase_power">INCREASE POWER</string>
     <string name="power">POWER!</string>
-    <string name="decrease_power">decrease_power</string>
-    <string name="decrease_power2">DECREASE POWER</string>
+    <string name="decrease_power">DECREASE POWER</string>
+    <string name="set_fighter_power">Set Fighter Power:</string>
+    <string-array name="fighters">
+        <item>Goku</item>
+        <item>Naruto</item>
+        <item>Saitama</item>
+        <item>Thanos</item>
+        <item>Mort</item>
+    </string-array>
 </resources>

@@ -7,11 +7,13 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Button;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
     Button increase_power;
     Button decrease_power;
     TextView power;
+    EditText set_power;
     int count = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
